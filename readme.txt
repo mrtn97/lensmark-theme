@@ -19,6 +19,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Lensmark Theme WordPress Theme, (C) 2023 Martin Clément
 Lensmark Theme is distributed under the terms of the GNU GPL.
+Lensmark Theme is based on Twenty Twenty-Three (https://wordpress.org/themes/twentytwentythree), (C) the WordPress team, [GPLv2 or later](http://www.gnu.org/licenses/gpl-2.0.html)
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
